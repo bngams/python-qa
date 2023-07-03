@@ -27,6 +27,14 @@ check-quote-consistency=yes
 
 ```
 
+## Git local hooks
+
+Uncomment pre-commit hook and add this command:
+
+```
+pylint ...
+```
+
 # MD Basic syntax
 
 [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
