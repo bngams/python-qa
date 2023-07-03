@@ -44,5 +44,3 @@ Some **bold** text.
 Listing:
 - list
 - list
-
-Testing pre commit git hooks
