@@ -26,6 +26,9 @@ pip install -r requirements.txt
 check-quote-consistency=yes
 
 ```
+# Workflow
+
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) vs. [Trunk-based](https://trunkbaseddevelopment.com/)
 
 # MD Basic syntax
 
